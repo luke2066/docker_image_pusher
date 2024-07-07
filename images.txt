@@ -1,2 +1,2 @@
 alpine:3.19.1
-
+grafnan/grafan:10.2.8
