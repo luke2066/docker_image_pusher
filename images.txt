@@ -1,2 +1,2 @@
 alpine:3.19.1
-grafnan/grafan:10.2.8
+grafana/grafana:10.4.5
