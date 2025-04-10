@@ -1,2 +1,3 @@
 nginx:alpine
 nginx
+alpine:3.18
